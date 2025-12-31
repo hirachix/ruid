@@ -1,5 +1,5 @@
-Server Status: Online
-Version: 2.0.1
-Maintenance: false
-Features: aimbot,esp,fps_unlock
-Update_URL: https://github.com/hirachix/ruid
+{
+  "auth_mode": 1,
+  "server_status": "online",
+  "version": "1.0"
+}

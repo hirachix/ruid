@@ -1,0 +1,14 @@
+{
+  "whitelist": [
+    "d3d9446802a44259755d38e6d163e820",
+    "8e296a067a37563370ded05f5a3bf3ec"
+  ],
+  "tokens": {
+    "d3d9446802a44259755d38e6d163e820": "device_token_1",
+    "8e296a067a37563370ded05f5a3bf3ec": "device_token_2"
+  },
+  "metadata": {
+    "last_updated": "2024-01-01",
+    "version": "1.0"
+  }
+}
